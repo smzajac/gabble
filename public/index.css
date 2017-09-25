@@ -1,0 +1,9 @@
+body{
+  background-color: lightgrey;
+
+}
+
+.body-wrapper{
+  margin: 200px;
+  background-color: white;
+}
